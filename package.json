@@ -1,0 +1,11 @@
+{
+  "name": "visualize-data-with-d3",
+  "version": "1.0.0",
+  "description": "Follow challenge by Freecodecamp D3js to bulid chart, Scatter,...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
